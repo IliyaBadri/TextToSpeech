@@ -3,3 +3,7 @@ include
 lib64
 lib
 bin
+models
+share
+input.wav
+output.wav
